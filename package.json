@@ -18,9 +18,9 @@
     "method-override": "~1.0.0",
     "mongoose": "~3.8.8",
     "morgan": "~1.0.0",
-    "passport": "~0.2.0",
-    "passport-github": "^0.1.5",
-    "passport-local": "~0.1.6",
+    "passport": "~0.6.0",
+    "passport-github": "^1.0.0",
+    "passport-local": "~1.0.0",
     "passport-twitter": "latest",
     "serve-favicon": "~2.0.1"
   },
